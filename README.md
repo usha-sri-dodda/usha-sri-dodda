@@ -37,7 +37,7 @@ My interests include **Software Development, Data Analytics, and Generative AI**
 
 ### 📌 Current Goals
 
-* Maintain a **consistent GitHub green streak**
+
 * Build strong, real-world projects for my portfolio
 * Improve problem-solving through daily practice
 * Expand skills in AI, ML, and Data
