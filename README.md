@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Usha Sri Dodda 👋</h1>
-<h3 align="center">Aspiring Software Development Engineer | Data Analytics Enthusiast | GenAI Learner</h3>
+<h3 align="center">Aspiring Software Developer | Data Analytics Enthusiast </h3>
 
 ---
 
