@@ -8,7 +8,6 @@
 
 I am a B.Tech Computer Science Engineering student passionate about building projects, solving problems, and continuously improving my technical foundation.
 My interests include **Software Development, Data Analytics, and Generative AI**, and I am currently focused on strengthening my DSA skills and maintaining a consistent learning streak.
-
 ---
 
 ### 🔍 What I'm Working On
