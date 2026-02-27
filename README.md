@@ -116,7 +116,7 @@ Currently preparing for product-based SDE roles and strengthening problem-solvin
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usha-sri-dodda&show_icons=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=usha-sri-dodda)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usha-sri-dodda&layout=compact)
 
